@@ -5,6 +5,7 @@ import time
 import threading
 from AntColony import AntColony
 
+
 def main(page: ft.Page):
     page.title = "Algorithme de Colonie de Fourmis"
     page.theme_mode = ft.ThemeMode.LIGHT
