@@ -191,6 +191,9 @@ class AntColony:
             # Petite pause pour permettre la mise à jour de l'interface
             time.sleep(0.1)
 
+
+
+
 # Exemple d'utilisation
 if __name__ == "__main__":
     # Matrice de distances d'exemple (4 villes)
